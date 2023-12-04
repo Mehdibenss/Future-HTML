@@ -1,15 +1,15 @@
 body{background: #FFF;  
-  width: 1440px;
-  height: 11671px;
-  width: 342px;
-  height: 241px;
+  width: 750px;
+  height: 93px;
+  width: 750px;
+  height: 93px;
   flex-shrink: 0;
-  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+  background: url(<path-to-image>),  cover no-repeat;
 }
 body {width: 1442px;
   height: 113px;
   flex-shrink: 0;
-  background: #001B36;
+  background: #FFF;
   color: #FFF;
   font-family: Italiana;
   font-size: 40px;
@@ -31,14 +31,14 @@ body {width: 1442px;
 }
   body {    width: 484px;
     height: 302px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    background: url(<path-to-image>), #FFF 50% / cover no-repeat;
     width: 535px;
     height: 302px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    background: url(<path-to-image>), #FFF 50% / cover no-repeat;
     width: 1442px;
     height: 304px;
     flex-shrink: 0;
-    background: rgba(4, 22, 40, 0.12);
+    background: #FFF;
   }
     body {    width: 750px;
       height: 93px;
@@ -52,6 +52,14 @@ body {width: 1442px;
       line-height: normal;
     }
 
-p{
+   p{
     font-size:35px;
+   }
+
+   body{
+    margin:auto;
+   }
+
+   img{
+    margin:8px;
    }
