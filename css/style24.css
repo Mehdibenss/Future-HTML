@@ -53,7 +53,10 @@ body {width: 1442px;
     }
 
    p{
-    font-size:35px;
+    font-size:18px;
+   }
+   h1{
+    font-size:25px;
    }
 
    body{
@@ -63,3 +66,5 @@ body {width: 1442px;
    img{
     margin:8px;
    }
+
+   
