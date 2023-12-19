@@ -551,6 +551,10 @@ body {
     overflow: auto;
 }
 
+a{
+    text-decoration: none;
+}
+
 .texte_21_block {
     display: flex;
     justify-content: space-between;
@@ -685,4 +689,8 @@ footer p {
     margin-top: 35px;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
    
